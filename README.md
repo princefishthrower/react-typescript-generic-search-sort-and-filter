@@ -2,7 +2,7 @@
 
 ## View this App on GitHub Pages:
 
-http://princefishthrower.github.io/react-typescript-generic-search-sort-and-filter
+http://princefishthrower.github.io/react-typescript-generic-search-sort-and-filter/build
 
 ## To Run Locally on Your Machine:
 
