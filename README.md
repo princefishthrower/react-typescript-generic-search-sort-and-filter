@@ -1,5 +1,11 @@
 # React and TypeScript: Generic Search, Sorters, and Filters
 
+## View this App on GitHub Pages:
+
+http://princefishthrower.github.io/react-typescript-generic-search-sort-and-filter
+
+## To Run Locally on Your Machine:
+
 Install dependencies:
 
 `npm install`

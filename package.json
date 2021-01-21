@@ -1,5 +1,6 @@
 {
   "name": "react-typescript-generic-search-and-filter",
+  "homepage": "http://princefishthrower.github.io/react-typescript-generic-search-sort-and-filter",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

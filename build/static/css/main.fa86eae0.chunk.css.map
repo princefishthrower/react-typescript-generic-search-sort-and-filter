@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.scss"],"names":[],"mappings":"AAAA,aACI,kEAA4H","file":"main.fa86eae0.chunk.css","sourcesContent":[".specialCard {\n    background: linear-gradient(64deg, rgba(255,0,0,1) 0%, rgba(255,255,0,1) 30%, rgba(5,193,255,1)70%, rgba(158,31,255,1) 100%); /* w3c */\n}"]}
